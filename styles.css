@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+}
+h1{ 
+    font-family: 'Black Han Sans', sans-serif;
+}
+.rookie{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.glove{
+    font-family: 'Indie Flower', cursive;
+}
+.cy{
+    font-family: 'Permanent Marker', cursive;
+}
+.mvp{
+    font-family: 'Cormorant Upright', serif;}
+    img {
+    height: 300px;
+}
+p {font-family: 'Merriweather', serif;}
